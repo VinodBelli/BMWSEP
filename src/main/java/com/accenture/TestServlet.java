@@ -26,7 +26,7 @@ public class TestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		response.getWriter().write("welcome to maven project");
-		response.getWriter().write("welcome to mav  en project");
+		response.getWriter().write("welcome to mav  en project ee");
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
 
